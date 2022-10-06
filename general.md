@@ -1,7 +1,8 @@
-<- [На главную](./README.md)
-# Основные команды Git
+[<- На главную](./README.md)
 
 ---
+
+# Основные команды Git
 
 ## git config
 Команда настройки параметров для Git на вашем компьютере.
@@ -75,5 +76,6 @@ git remote add origin https://github.com/avsudnichnikov/example
 
 `git show [хэш]` показывает информацию по определённому коммиту.
 
+---
 
 <- [На главную](./README.md)
