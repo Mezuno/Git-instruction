@@ -1,4 +1,4 @@
-[<- На главную](./README.md)
+[< На главную](./README.md)
 
 ---
 
@@ -78,4 +78,4 @@ git remote add origin https://github.com/avsudnichnikov/example
 
 ---
 
-<- [На главную](./README.md)
+[< На главную](./README.md)

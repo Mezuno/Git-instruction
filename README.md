@@ -1,6 +1,6 @@
 # Инструкция по работе с Git
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png" alt="drawing" width="600"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png" alt="drawing" style="background: #eee; padding: 30px; border-radius: 10px;" width="600"/>
 
 ---
 
